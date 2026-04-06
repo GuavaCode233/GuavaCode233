@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+👋 Hi, 我是林于靖！目前就讀國立臺北科技大學資訊與財金管理系大三。
+💻 專注於 Python 自動化開發、Flutter 跨平台 App 與金融科技應用。
+🔍 尋找 2026 年暑期/學期軟體工程與實習機會！
