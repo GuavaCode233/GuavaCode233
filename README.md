@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 💻 專注於 Python 自動化開發、Flutter 跨平台 App 與金融科技應用。
 
 🔭 目前正在製作 Eco-Sensing App 專題，為企業範疇三碳排盤查的解決方案。
+
 🔗 **Repository:**[https://github.com/GuavaCode233/eco_sensing_app](https://github.com/GuavaCode233/eco_sensing_app)
 
 🔍 正在尋找 2026 年暑期/學期軟體工程與實習機會！
